@@ -6,7 +6,7 @@ from rich.panel import Panel
 from rich.box import Box
 from rich.console import Console
 
-api_key = "a6000b0a083c929ac978d931fd1e49af"
+api_key = "FUCK"
 
 lat = "49.2464496"
 lon = "8.344604"
